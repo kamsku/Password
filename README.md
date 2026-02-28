@@ -29,8 +29,8 @@ The project was created with security in mind, utilizing cryptographically secur
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YourUsername/your-repository-name.git
-    cd your-repository-name
+    git clone https://github.com/kamsku/Password.git
+    cd Password
     ```
 
 2.  **Create and activate a virtual environment (recommended):**
