@@ -59,6 +59,7 @@ python main.py
 .
 ├── LICENSE
 ├── README.md
+├── requirements.txt
 └── password_generator
     ├── cli_utils.py
     ├── config.py
