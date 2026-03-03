@@ -61,7 +61,7 @@ def print_header(title_text: str) -> None:
 
 def print_menu(options: List[str]) -> None:
     """Prints a menu of options."""
-    print(c("\nWybierz opcję:", "bold"))
+    print(c("\nSelect an option:", "bold"))
     for i, option in enumerate(options, 1):
         print(f"  {i}) {option}")
 
