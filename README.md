@@ -50,7 +50,7 @@ The project was created with security in mind, utilizing cryptographically secur
 After installing dependencies, run the application using the command:
 
 ```bash
-python main.py
+python password_generator/main.py
 ```
 
 ## Project Structure
